@@ -13,18 +13,18 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.happybirthday
-
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-
-/**
- * Displays a birthday card.
- */
-class MainActivity : AppCompatActivity() {
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-    }
-}
+//package com.example.happybirthday
+//
+//import androidx.appcompat.app.AppCompatActivity
+//import android.os.Bundle
+//
+///**
+// * Displays a birthday card.
+// */
+//class MainActivity : AppCompatActivity() {
+//
+//    override fun onCreate(savedInstanceState: Bundle?) {
+//        super.onCreate(savedInstanceState)
+//        setContentView(R.layout.activity_main)
+//    }
+//}
